@@ -13,7 +13,7 @@ name: Test-NoLoad
 provides:
   Test::NoLoad:
     file: lib/Test/NoLoad.pm
-    version: 0.01
+    version: 0.02
 requires:
   Exporter: 0
   Test::More: 0.88
@@ -21,4 +21,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/bayashi/Test-NoLoad
-version: 0.01
+version: 0.02
