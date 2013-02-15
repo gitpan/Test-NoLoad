@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Test::More qw//;
 
-our $VERSION = '0.02';
+our $VERSION = '0.021';
 
 use Exporter;
 our @ISA    = qw/Exporter/;
@@ -67,6 +67,8 @@ It will be fail, if the module was loaded.
 =head1 EXPORTED FUNCTIONS
 
 =head2 check_no_load(@modules)
+
+=head2 load_ok(@modules)
 
 
 =head1 REPOSITORY
