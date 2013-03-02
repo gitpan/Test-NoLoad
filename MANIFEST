@@ -9,3 +9,5 @@ xt/02_pod-coverage.t
 xt/03_pod.t
 xt/04.notabs.t
 META.yml
+META.json
+README.pod
