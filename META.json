@@ -30,7 +30,7 @@
    "provides" : {
       "Test::NoLoad" : {
          "file" : "lib/Test/NoLoad.pm",
-         "version" : "0.022"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
@@ -42,5 +42,5 @@
          "url" : "http://github.com/bayashi/Test-NoLoad"
       }
    },
-   "version" : "0.022"
+   "version" : "0.03"
 }
